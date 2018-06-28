@@ -1,0 +1,97 @@
+
+.bg{
+	background: url(../img/bg_login.png) center;
+    background-size: cover;
+}
+.header{
+	background: #01579b;
+
+}
+.footer{
+   height: 100px;
+   color: #fff;
+   background: #01579b;
+
+}
+.thead-sabena{
+   background: #01579b;
+   color: #fff;
+}
+
+.logo{
+   width: 320px;
+   height: 100px !important;
+   display: block;
+   margin-top: 5px !important;
+   background-image: url('../img/bennesby.png');
+   background-position: 0 0;
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+
+.busca{
+   border: none;
+   color: #01579b;
+   background: #fff;
+   border: 1px solid #01579b;
+}
+
+.botaoMenu{
+   border-radius: 0px !important;
+}
+
+.busca:hover{
+   background: #01579b;
+   color: #fff;
+   border: 1px solid #fff;
+}
+
+.botao {
+   background: #01579b;
+   color: #fff;
+   border: 1px solid #01579b; 
+}
+.botao:hover{
+   background: #fff;
+   color: #01579b;
+   border: 1px solid #01579b; 
+}
+.texto {
+   margin: 0 auto;
+}
+.menu{ 
+   background: #01579b !important;
+}
+.menu a{
+   color: #fff;
+   display: block;
+}
+.menu a:hover{
+   color: #01579b;
+   background: #fff;
+}
+
+td a{
+   color: #01579b !important;
+}
+
+td a:hover{
+   color: #0277bd !important ;
+}
+
+/*************************************/
+
+.box-login{
+	width: 500px !important;
+	padding: 30px 60px;
+	background: #01579b;
+	color: #fff;
+	margin: 170px auto;
+	border-radius: 30px;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.img-logo{
+	width: 250px !important;
+	margin-left: 20%;
+}
