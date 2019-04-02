@@ -1,8 +1,8 @@
 # Ramal
-Autor: Guilherme Arantes
-Linguagem: PHP
+Autor: Guilherme Arantes;
+Linguagem: PHP;
 
-#Requisitos
+# Requisitos
 PHP 7.0
 MySQL
 
