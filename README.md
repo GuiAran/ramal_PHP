@@ -37,5 +37,5 @@ E-mail: guilherme.arantes@bennesby.com.br
 E-mail: judoka.pvh@gmail.com
 
 # Licence
-It is distributed under the GNU GENERAL PUBLIC LICENSE Version 2 - please consult the file called COPYING for more details.
+It is distributed under the GNU GENERAL PUBLIC LICENSE Version 2 - please consult the file called LICENCE for more details.
 
